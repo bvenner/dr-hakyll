@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"
+    xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <channel>
+        <title>Dr. Hakyll's Blog</title>
+        <link></link>
+        <description><![CDATA[Dr. Hakyll's blog]]></description>
+        <atom:link href="/rss.xml" rel="self"
+                   type="application/rss+xml" />
+        <lastBuildDate>Sat, 19 Nov 2016 00:00:00 UT</lastBuildDate>
+        <item>
+    <title>Towards the Three Color Platform</title>
+    <link>/posts/2016-11-19-three-color-party.html</link>
+    <description><![CDATA[<div class="blog-post">
+  <h2 class="blog-post-title">
+    Towards the Three Color Platform
+  </h2>
+  <p class="blog-post-meta">
+    Posted on 2016-11-19
+    
+      by Brad Venner
+    
+  </p>
+  <p>Although “communitarian populism” has the benefit of engaging with existing policial philosophy debates, it’s very catchy when it comes to describing a political party. There are lots of European parties with cool names - the Pirate Party, the 5 Star Movement, Podemos, etc. So what would a Peircian-inspired communitarian populist political party be called? I propose the <em>Three Color Party,</em> as both a nod to Peirce’s triadomania as well as a serious reference to policy.</p>
+<p>From the communitiarian perspective, the main trichotomy would be “market, state, society.” The “society” component has many names. It is “civic” in civic republicanism. It is “commons” in the Commons Transition. It is “community” in communitarianism.</p>
+<p>Another trichotomy is factors of production: land, labor, capital</p>
+<p>Goods: private, public, social</p>
+</div>
+]]></description>
+    <pubDate>Sat, 19 Nov 2016 00:00:00 UT</pubDate>
+    <guid>/posts/2016-11-19-three-color-party.html</guid>
+    <dc:creator>Dr. Hakyll</dc:creator>
+</item>
+<item>
+    <title>Revisiting Christopher Lasch</title>
+    <link>/posts/2016-11-16-lasch.html</link>
+    <description><![CDATA[<div class="blog-post">
+  <h2 class="blog-post-title">
+    Revisiting Christopher Lasch
+  </h2>
+  <p class="blog-post-meta">
+    Posted on 2016-11-16
+    
+  </p>
+  <p>Something about the sea of red with islands of blue in the electoral map on 8 Nov 2016 reminded me of Christopher Lasch. I read his book <em>The True and Only Heaven</em> many years ago and it has stayed with me to some degree.</p>
+</div>
+]]></description>
+    <pubDate>Wed, 16 Nov 2016 00:00:00 UT</pubDate>
+    <guid>/posts/2016-11-16-lasch.html</guid>
+    <dc:creator>Dr. Hakyll</dc:creator>
+</item>
+
+    </channel>
+</rss>
