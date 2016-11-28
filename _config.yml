@@ -1,15 +1,31 @@
-# standard jekyll configuration options
+# modified from standard jekyll configuration options
 
-exclude: ['app','templates','README.md','stack.yaml']
+exclude:
+  - app
+  - templates
+  - README.md
+  - stack.yaml
+  - _cache
 
 # configuration required for some pages
 
 domain: bvenner.github.io
 title: Semiotics, Statistics, and All That
-author: Brad Vemmer
-email: brad@vennerconsulting.com
+author:
+  name: Brad Venner
+  givenName: Brad
+  familyName:  Venner
+  twitter:  BradVenner
+  github:  bvenner
+  email: brad@vennerconsulting.com
+url:  http://bvenner.github.io
 
-# configuration for ehancements, uncomment to enable
+markdown:  pandoc
+markdown_ext:  markdown, md
+pandoc:
+  extensions:
+    - smart
+    - mathjax
 
 # feedburner:
 #   id: feedburnerid
