@@ -20,12 +20,17 @@ author:
   email: brad@vennerconsulting.com
 url:  http://bvenner.github.io
 
+
+#gems:
+#  - jekyll-pandoc
+
 #markdown:  pandoc
 #markdown_ext:  markdown, md
 #pandoc:
 #  extensions:
 #    - smart
 #    - mathjax
+#    - bibliography:  biblio/references.yaml
 
 # feedburner:
 #   id: feedburnerid
