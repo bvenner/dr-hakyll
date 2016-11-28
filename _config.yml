@@ -1,0 +1,24 @@
+# standard jekyll configuration options
+
+exclude: ['app','templates','README.md','stack.yaml']
+
+# configuration required for some pages
+
+domain: bvenner.github.io
+title: Semiotics, Statistics, and All That
+author: Brad Vemmer
+email: brad@vennerconsulting.com
+
+# configuration for ehancements, uncomment to enable
+
+# feedburner:
+#   id: feedburnerid
+
+# google_analytics:
+#   account: UA-XXXXX-X
+
+# github:
+#   username: ghusername
+
+# disqus:
+#   id: disqusid
