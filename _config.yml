@@ -8,7 +8,7 @@ exclude:
   - _cache
 
 # configuration required for some pages
-
+theme:  minima
 domain: bvenner.github.io
 title: Semiotics, Statistics, and All That
 author:
