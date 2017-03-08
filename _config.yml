@@ -3,9 +3,10 @@
 exclude:
   - app
   - templates
-  - README.md
   - stack.yaml
   - _cache
+  - _rmd
+  - stack.yaml
 
 # configuration required for some pages
 theme:  minima
