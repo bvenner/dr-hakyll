@@ -23,4 +23,5 @@ title:  Ideas for future posts
 
 + Nathan Houser's review of [Perice and the Threat of Nominalism](http://ndpr.nd.edu/news/peirce-and-the-threat-of-nominalism/) states 
   >According to Peirce, each of the traditional nominalist theories, correspondence, coherence, consensus, and instrumental reliability, "rightly identify essential elements of truth"
+  
   This list reminds me of the [Daubert Standard](https://en.wikipedia.org/wiki/Daubert_standard) *illustrative factors*.  Can this list be expanded, and is there a realist theory of science that the Daubert rulings are striving for? 
