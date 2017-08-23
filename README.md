@@ -1,37 +1,10 @@
-# Dr. Hakyll
+# Dr. Jekyll and Mr. Hakyll
 
-```
-$ git clone https://github.com/stackbuilders/dr-hakyll
-```
+Taking single-source too far - can a site be both a Jekyll and a Hakyll site?
 
-```
-$ cabal sandbox init
-$ cabal install --only-dependencies
-$ cabal configure
-$ cabal build
-$ cabal run build
-$ cabal run watch
-```
+# References
 
-```
-$ stack setup
-$ stack build
-$ stack exec dr-hakyll build
-$ stack exec dr-hakyll watch
-```
-
-```
-$ stack exec dr-hakyll clean
-$ stack exec dr-hakyll build
-```
-
-```
-$ stack exec dr-hakyll rebuild
-```
-
-## References
-
-### Hakyll and Haskell
+## Hakyll and Haskell
 
 - [Hakyll][hakyll]
 - [Haskell][haskell]
@@ -39,7 +12,7 @@ $ stack exec dr-hakyll rebuild
 [hakyll]: http://jaspervdj.be/hakyll/
 [haskell]: https://www.haskell.org/
 
-### Bootstrap
+## Bootstrap
 
 - [Bootstrap][bootstrap]
 - [Bootstrap's blog example][bootstrap-blog]
@@ -47,8 +20,3 @@ $ stack exec dr-hakyll rebuild
 [bootstrap]: http://getbootstrap.com/
 [bootstrap-blog]: http://getbootstrap.com/examples/blog/
 
-### Other references
-
-- [Walking][walking] by Henry David Thoreau
-
-[walking]: http://www.gutenberg.org/ebooks/1022
