@@ -5,6 +5,18 @@ module Main (main) where
 import Data.Monoid (mappend)
 import Hakyll
 
+pandocSlideCompiler :: Compiler (Item String)
+ pandocSlideCompiler = pandocCompilerWith defaultHakyllReaderOptions writeHtmlSlide
+  where
+     writeHtmlSlide = defaultHakyllWriterOptions { writerIncremental = True
+                                                 , writerSectionDivs = False
+                                                 , writerVariables = [("theme", "beige")]
+                                                 , writerSlideLevel = Just 2
+                                                 , writerSlideVariant = RevealJsSlides
+                                                 , writerIgnoreNotes = True
+                                                 , writerHtml5 = True
+                                                 }
+
 main :: IO ()
 main =
   hakyll $ do
@@ -22,13 +34,21 @@ main =
         >>= loadAndApplyTemplate "templates/default.html" defaultContext
         >>= relativizeUrls
 
-    match "posts/*" $ do
+    match "_posts/*" $ do
       route (setExtension "html")
       compile $ pandocCompiler
         >>= loadAndApplyTemplate "templates/post.html" postContext
         >>= saveSnapshot "content"
         >>= loadAndApplyTemplate "templates/default.html" postContext
         >>= relativizeUrls
+
+    match "_talks/*" $ do
+          route (setExtension "html")
+          compile $ pandocSlideCompiler
+            >>= loadAndApplyTemplate "templates/post.html" postContext
+            >>= saveSnapshot "content"
+            >>= loadAndApplyTemplate "templates/default.html" postContext
+            >>= relativizeUrls
 
     create ["archive.html"] $ do
       route idRoute
@@ -85,9 +105,9 @@ postContext =
 feedConfiguration :: FeedConfiguration
 feedConfiguration =
   FeedConfiguration
-    { feedTitle = "Dr. Hakyll's Blog"
-    , feedDescription = "Dr. Hakyll's blog"
-    , feedAuthorName = "Dr. Hakyll"
-    , feedAuthorEmail = "dr-hakyll@dr-hakyll.com"
+    { feedTitle = "Brad Venner's Blog"
+    , feedDescription = "Brad Venner's blog"
+    , feedAuthorName = "Brad Venner"
+    , feedAuthorEmail = "brad@vennerconsulting.com"
     , feedRoot = ""
     }
