@@ -1,0 +1,29 @@
+---
+title: "A Hackers Manifesto"
+author: "Brad Venner"
+date: "January 27, 2018"
+output: html_document
+---
+
+I loved this book.  While there were many novel concepts developed, I thought that many seemed familiar from Peirce.  Wark describes hit book as crypto-Marxist, so Some thoughts on this translation.
+
+Wark's book deals with the conflict between and within two trichotomies.  The trichotomy for the productive classes is farmer, worker, hacker, while for the property classes there are pastoralists, capitalist and vectoralist.    throughout, giving it a superficially Peircean flavor.    
+
+Michel Bauwens cited this work in his introductory essay on the P2P theory website,  
+
+## Hack
+
+Wark uses the concept of 'hack' in a way that is similar to Peirce's notion of abduction.  Hack's are original, proceed from data    
+
+## Second and third nature
+
+> an information infrastructure, a kind of third nature, now commands the old manufacturing and distribution infrastructure, or second nature, which in turn commands the resources of this planet, which is how nature now appears to us. @Wark2016
+
+## Gift vs commodity
+
+
+## Abstraction
+
+## Virtuality
+
+## Vector

@@ -1,4 +1,0 @@
-revealjs::revealjs_presentation:
-  theme: sky
-  transition: fade
-  self_contained: false
