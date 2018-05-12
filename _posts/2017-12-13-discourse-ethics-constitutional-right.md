@@ -7,3 +7,9 @@ According to Wikipedia, [jurisprudence is the study and philosophical theory of 
 Interpretation is a central concern of semiotics, so it is no suprise that Peirce's thought has had an impact on *organicism.*  
 
 Apel's answer is to split ethics into an ideal communication community and an actual communication community.  
+
+# Edit:  11 May 2018
+
+Kenneth Westphal describes Hegel's social philosophy as [natural law constructivism](https://www.academia.edu/31281504/Hegel_Natural_Law_and_Moral_Constructivism).  If successful, it would overcome the opposition between *loose constructionism* and *natural law* outlined above.  Westphal discusses how Hegel tried to overcome the opposition between ontological realism and historical relativism in his epistemology, claiming Hegel as the grandfather of *pragmatic realism*.  Natural law constructivism attempts a similar reconciliation in moral philosophy.
+
+Westphal argues that constructivism can avoid arbitrariness by basing constructions on "objective facts concerning our very finite species of embodied semi-rational agency, together with basic, pervasive features of our context of action, namely the globe we inhabit." [@Westphal:2017:Hegel], (p.3.)  Although a stable climate system capable of supporting life may be admitted as an objective fact, does the contention over the issue of anthropogenic effects show the limits of constructivism.     
