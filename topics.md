@@ -3,7 +3,17 @@ title:  Ideas for future posts
 ---
 + The semiology of *Arrival*.  What a Peircean semiotic treatment might look like.
 
-+ Veiwing Peirce's 10 classes of signs as a three-category structure.
++ Analogy between Peirce's 6 aspects of signs as a three-category structure.
+Peirce | three-category
+Sign | category
+Objects | Two-category (or monodial two-category)
+Immediate object | Horizontal composition
+Dynamic object | Vertical composition
+Interpretant | Three-category
+Immediate interpetant |
+Actual interpretant |
+Final interpretant |
+
 
 + Comparing Ellerman's notion of half-adjoints to the topos-theoretic model of [adjoint modality](https://ncatlab.org/nlab/show/adjoint+modality) used by Schreiber, Lawvere, etc..
 
@@ -21,7 +31,7 @@ title:  Ideas for future posts
 
 + In Schreiber's discussion of [adjoint modality](https://ncatlab.org/nlab/show/adjoint+modality), the middle functor is *full and faithful.*  In Ellerman's notion of half-adjunction, the basic identities are given as functions between hom-sets.  How are these hom-sets related to the notion of *full and faithful.*  Work out as an example.
 
-+ Nathan Houser's review of [Peirce and the Threat of Nominalism](http://ndpr.nd.edu/news/peirce-and-the-threat-of-nominalism/) states 
++ Nathan Houser's review of [Peirce and the Threat of Nominalism](http://ndpr.nd.edu/news/peirce-and-the-threat-of-nominalism/) states
   >According to Peirce, each of the traditional nominalist theories, correspondence, coherence, consensus, and instrumental reliability, "rightly identify essential elements of truth"
-  
+
   This list reminds me of the [Daubert Standard](https://en.wikipedia.org/wiki/Daubert_standard) *illustrative factors*.  Can this list be expanded, and is there a realist theory of science that the Daubert rulings are striving for? 

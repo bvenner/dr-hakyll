@@ -9,7 +9,7 @@ exclude:
   - stack.yaml
 
 # configuration required for some pages
-theme:  minima
+theme:  jekyll-theme-cayman
 domain: bvenner.github.io
 title: Semiotics, Statistics, and All That
 author:

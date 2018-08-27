@@ -10,5 +10,3 @@ From the communitiarian perspective, the main trichotomy would be "market, state
  Another trichotomy is factors of production:  land, labor, capital
 
  Goods:  private, public, social
-
- 

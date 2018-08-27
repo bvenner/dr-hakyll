@@ -1,0 +1,34 @@
+---
+title: "Peirce and Rosen on Final Causes"
+author: "Brad Venner"
+date: "January 20, 2018"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+mm.in=25.4
+```
+Rosen and Peirce both analyzed
+
+In 1903, in the Harvard Lectures and in his *scolium* for New Elements of Mathematics, Peirce developed an interpretation of the concept of final cause as used by Aristotle.  
+
+Peirce bases his derivation on an analysis of the sign.  In NEM, Peirce develops these concepts in Aristotelian terms.  A sign *denotes* objects and *signifies* characters.  The objects denoted are the *matter* of the sign, and the qualities signified are the *form* of the sign.  An interpretant sign denotes *the same* object and signifies *the same* qualiites as another sign.  But this notion of similarity is not equality; an interpretant sign may denote and signify only part of the objects and qualities of the original sign.  But what is preserved is the purpose of the sign, i.e. in accordance with the *Truth*.  
+
+>The purpose of a sign is to express *fact*, and by being joined with other signs, to approach as nearly as possible to determining an interpretant which would be the *perfect Truth*, the absolute truth, and as such (at least, we may use this language) would be the very universe.      
+
+Peirce defines this process as entelechy.  But by adopting this notion, is the notion of final cause already assumed?  Does the notion of purpose already assume the notion of end?  Then the NEM analysis relates semeiotics to Aristotelian concepts.
+
+Peirce then distinguishes between theory and practice.  Theory develops interpretants of the matter of sign with which it is acquainted and more fully embodies its form.  Practice develops interpretants of the form of a sign of which it has an idea to more fully produce its matter.  
+
+This development reminds me of Ellerman's *brain functor* idea.  Ellerman's idea might be  a good bridge between Peirce and Rosen.  Would this be a good place to develop it?  I like the idea of a functor as a proposition, since this has a nice development as categorical semantics.               
+
+The concept of cause is then developed as the relationship between two facts, the *cause* and the *causatum*.  The *cause* could have its being without the being of the *causatum*, but there must be a dependence between the *cause*, the *causatum*, and a *certain third fact*.
+
+> If the cause is defined as a part of the causatum, in the sense that the causatum could not logically be without the cause, it is called an *internal cause*.    
+
+If the causatum could logically be without the cause, then it is called an *external cause.*  
+
+> If the cause is of the nature of an individual thing,
+
+of Aritstotle's four causes on a reanalysis of the concepts of matter and form.  Matter regains it's notion of possibility while form shapes matter.  Theory proceeds from matter to form, while practice proceeds from form to matter.  The four causes are laid out in a two by two table,
