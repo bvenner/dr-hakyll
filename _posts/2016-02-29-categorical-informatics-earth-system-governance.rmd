@@ -1,0 +1,24 @@
+---
+title: "Categorical Informatics in Earth System Governance"
+author: "Brad Venner"
+date: "Monday, February 29, 2016"
+output: html_document
+status: process
+---
+Earth System <- Informatics -> Governance
+Ecology <- Covenant -> Democracy
+
+Can categorical informatics contribute to a span connecting the two pillars of earth systems and governance?  
+
+All that can fall within the range of human understanding
+is in three categories.  The nature of things as they are in
+themselves, their relations, and their manner of operation.
+What man himself ought to do, as a thinking and willing
+agent, for the attainment of any end, especially happiness.
+The ways and means by which the knowledge of each of those two
+is attained and communicated. I think that science can properly 
+be divided into these three sorts. --- John Locke, An Essay Concerning Human Understanding, Book 4, Chapter xxi.
+
+Key notions in categorical informatics - information integration, updatable views, aggregation, lenses
+
+Covenant as a general theory of norms.

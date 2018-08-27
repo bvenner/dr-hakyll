@@ -1,0 +1,15 @@
+---
+title: "Robustness, Efficiency, and Economic Democracy"
+author: "Brad Venner"
+date: "Tuesday, May 10, 2016"
+output: html_document
+status: process
+---
+
+[Marie](www.rapidshift.net) and I were watching the excellent documentary [Can We Do It Ourselves](http://www.imdb.com/title/tt4842618/) on economic democracy last Saturday night.  The movie included one spokesperson for the antagonist - [Janerik Larsson](http://www.janeriklarsson.se/).  One point that he made that I thought was quite good was essentially that if workplace democracy was more efficient than why don't we see more worker-managed firms already?  Clearly, capitalism must be more efficient.
+
+Now, I'm a beginner to the notion of economic democracy, and most of my reading so far has been the work of [David Ellerman](www.ellerman.org).  Ellerman appeals to moral arguments that the employment contract is a violation to a person's inalianable rights to self-government and likens the struggle for economic democracy to abolitionist movements to end slavery or gain sufferage.  I find these arguments quite compelling, and from this frame the question of efficiency is ill-posed.  Clearly, arguments in favor of slavery that appealed to efficiency would be anathama.
+
+But setting aside the moral arguments, can the efficiency argument be met more directly?  One possible argument is that democratic firms might be more robust.  [John Doyle](https://rigorandrelevance.wordpress.com/author/doyleatcaltech/) has developed many case studies that illustrate the tradeoff between physical efficiency and total robustness.  He summarizes these case studies as:
+
+> One  universal  and  familiar  feature  of  real  systems  in  engineering  and  biology  is  that  improving efficiency in terms of minimizing both the consumption and waste of material, energy, and other resources inevitably reduces the intrinsic stability of the systems.

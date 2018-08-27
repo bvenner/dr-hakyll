@@ -1,0 +1,13 @@
+---
+title: "Categorical Semiotics"
+author: "Brad Venner"
+date: "May 23, 2016"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+Categorical semiotics is the application of mathematical category theory to the 'quasi-necessary, or formal doctrine of signs.'   
+
+Existing applications of category theory to semiotics, such as Joseph Goguen's [algebraic semiotics]()

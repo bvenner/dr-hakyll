@@ -1,0 +1,14 @@
+https://hapgood.us/2014/07/11/the-universal-json-canvas-and-bens-five-star-plugin/
+https://hapgood.us/2015/03/26/paper-thoughts-and-the-remix-hypothesis/
+
+I tend to read blogs the way that I watch TV right now.  For TV, I wait for the wheat to separate from the chaff, 
+wait to see what's recommended, then binge-watch the most highly rated series.  I do the same thing with academic
+writers.  Lately, 've been doing the same thing with
+Mike Caufield's excellent blog on educational technology:  https://hapgood.us.  However, since my current commitment
+(I really mean it this time!) is to write every day, no matter how ill-formed the thought, here we go.
+
+According to Caulfield: 
+> I would argue (along with Alan Kay and so many others) that for digital media the most radical affordance is the remixability 
+> of the form (what Kay would call its dynamism).
+> We can represent ideas not as finished publications, but as editable models that can be shared, redefined, and recontextualized.
+

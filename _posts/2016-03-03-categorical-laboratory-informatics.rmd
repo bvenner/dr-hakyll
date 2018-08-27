@@ -1,0 +1,16 @@
+---
+title: "Categorical Laboratory Informatics"
+author: "Brad Venner"
+date: "Thursday, March 03, 2016"
+output: html_document
+status: process
+---
+
+What are the possible applications of categorical informatics to the laboratory setting?  In particular, I'd like to look at the EPA laboratory enterprise study.  Are there particular applications for which categorical informatics has advantages?
+
+I was looking at the New Systems Project yesterday and was reminded of the general notion that Americans like to start over and not build from European roots.  So rather than starting with the "Commons Transition" project they are starting from scratch.  My thought this morning is that "categorical informatics" might be suffering from the same disease.  In particular, does this project really consider prior research in programming languages?  In particular, if "logic programming" is the same thing as "relational programming" than shouldn't programming language research be considered as part of the larger "categorical informatics" project?  
+
+For example, dependantly typed languages integrate logical and functional programming.  From the [Coq web site](https://coq.inria.fr/what-is-coq):
+> Coq implements a program specification and mathematical higher-level language called Gallina that is based on an expressive formal language called the Calculus of Inductive Constructions that itself combines both a higher-order logic and a richly-typed functional programming language.
+
+Of course, CIC is at the top of the lambda cube.  Chlipala specialized the SQL/HTML relationship in UR/Web, where he included "enough" ideas from dependent type theory in order to model both relational algebra and the "trees" of HTML.  Are there languages further down the lambda cube that can be used to implement a relational algebra?
